@@ -1,1 +1,34 @@
-## Reglas de la arquitectura DDD 
+
+##Proyecto CRUD con DDD y Firebase
+Descripción
+Este repositorio contiene un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar) desarrollado utilizando el enfoque de Diseño Dirigido por el Dominio (DDD). La aplicación gestiona usuarios y utiliza Firebase como base de datos en tiempo real para almacenar la información.
+
+Estructura del Proyecto
+El proyecto sigue una arquitectura basada en DDD, dividiéndolo en capas distintas:
+
+Capa de Dominio:
+
+Contiene entidades, value objects, agregados y reglas de negocio.
+Representa el núcleo del sistema.
+Capa de Aplicación (Caso de Uso):
+
+Coordina las interacciones entre la capa de dominio y la capa de infraestructura.
+Contiene servicios de aplicación y orquesta las operaciones del sistema.
+Capa de Infraestructura (Adaptadores):
+
+Maneja detalles técnicos como almacenamiento de datos, comunicación externa y servicios.
+Incluye controladores, modelos y rutas.
+Tecnologías Utilizadas
+Firebase:
+Base de datos en tiempo real.
+Autenticación de usuarios.
+Almacenamiento en la nube.
+Funciones en la nube para ejecutar lógica del lado del servidor.
+Documentación Detallada
+Para obtener información detallada sobre la estructura del proyecto, casos de uso, y más, consulta nuestra documentación en Notion.
+
+Instrucciones de Uso
+Clona este repositorio.
+Configura tu entorno Firebase y obtén las credenciales.
+Instala las dependencias con npm install.
+Ejecuta la aplicación con npm start.

@@ -24,6 +24,10 @@ Este repositorio contiene un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar
 - Ejecuta la aplicación con el siguiente comando: npx ts-node index.ts.
 - Tendras el servidor corriendo, deberas utilizar alguna herramienta como postman, para utilizar y probar las funcionalidades del CRUD.
 
+Si no conoces postman abajo dejo la documentacion del mismo y la documentacion completa de nuestro CRUD desarrollado con DDD.
+
+## Documentacion Postman
+https://learning.postman.com/docs/introduction/overview/
 
 ## Documentación del Proyecto
 https://wirehaired-bream-e32.notion.site/Documentaci-n-de-CRUD-utilizando-DDD-Domain-Driven-Design-27e436af7c014f838fc418197969b88a?pvs=4.

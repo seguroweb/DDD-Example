@@ -3,8 +3,7 @@
 ## Descripción
 Este repositorio contiene un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar) desarrollado utilizando el enfoque de Diseño Dirigido por el Dominio (DDD). La aplicación gestiona usuarios y utiliza Firebase como base de datos en tiempo real para almacenar la información.
 
-## Estructura del Proyecto
-Explicación breve de cómo está organizado tu proyecto. Puedes mencionar las siguientes capas:
+# Breve resumen sorbre capas DDD
 
 ### Capa de Dominio
 - Contiene las entidades, value objects, agregados y reglas de negocio.
@@ -26,5 +25,5 @@ Entrar en la carpeta src.
 Ejecuta la aplicación con npx ts-node index.ts.
 
 
-## Documentación
+## Documentación del Proyecto
 https://wirehaired-bream-e32.notion.site/Documentaci-n-de-CRUD-utilizando-DDD-Domain-Driven-Design-27e436af7c014f838fc418197969b88a?pvs=4.

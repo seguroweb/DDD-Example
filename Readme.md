@@ -21,7 +21,8 @@ Este repositorio contiene un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar
 - Clona este repositorio.
 - Instala las dependencias con npm install.
 - Entrar en la carpeta src.
-- Ejecuta la aplicación con npx ts-node index.ts.
+- Ejecuta la aplicación con el siguiente comando: npx ts-node index.ts.
+- Tendras el servidor corriendo, deberas utilizar alguna herramienta como postman, para utilizar y probar las funcionalidades del CRUD.
 
 
 ## Documentación del Proyecto

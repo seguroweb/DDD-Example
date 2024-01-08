@@ -19,7 +19,6 @@ Este repositorio contiene un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar
 
 ## Instalación
 - Clona este repositorio.
-- Configura tu entorno Firebase y obtén las credenciales.
 - Instala las dependencias con npm install.
 - Entrar en la carpeta src.
 - Ejecuta la aplicación con npx ts-node index.ts.

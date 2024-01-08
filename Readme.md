@@ -26,5 +26,5 @@ Entrar en la carpeta src.
 Ejecuta la aplicación con npx ts-node index.ts.
 
 
-## Documentación Adicional
+## Documentación
 https://wirehaired-bream-e32.notion.site/Documentaci-n-de-CRUD-utilizando-DDD-Domain-Driven-Design-27e436af7c014f838fc418197969b88a?pvs=4.

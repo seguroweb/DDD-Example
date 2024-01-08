@@ -3,7 +3,7 @@
 ## Descripción
 Este repositorio contiene un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar) desarrollado utilizando el enfoque de Diseño Dirigido por el Dominio (DDD). La aplicación gestiona usuarios y utiliza Firebase como base de datos en tiempo real para almacenar la información.
 
-# Breve resumen sorbre capas DDD
+# Breve resumen sobre capas DDD
 
 ### Capa de Dominio
 - Contiene las entidades, value objects, agregados y reglas de negocio.
@@ -18,11 +18,11 @@ Este repositorio contiene un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar
 - Contiene controladores, modelos y rutas.
 
 ## Instalación
-Clona este repositorio.
-Configura tu entorno Firebase y obtén las credenciales.
-Instala las dependencias con npm install.
-Entrar en la carpeta src.
-Ejecuta la aplicación con npx ts-node index.ts.
+- Clona este repositorio.
+- Configura tu entorno Firebase y obtén las credenciales.
+- Instala las dependencias con npm install.
+- Entrar en la carpeta src.
+- Ejecuta la aplicación con npx ts-node index.ts.
 
 
 ## Documentación del Proyecto
